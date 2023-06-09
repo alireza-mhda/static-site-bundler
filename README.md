@@ -1,4 +1,4 @@
-# static-site-bundler
+# Static Site Bundler
 
 Create static sites using: typescript, sass and tailwindcss
 
