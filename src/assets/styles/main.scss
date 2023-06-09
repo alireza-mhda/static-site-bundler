@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background: #27374d;
+  color: #dde6ed;
+}
+
+#ssb-title {
+  transition: all 0.5s ease;
+}
