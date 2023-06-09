@@ -1,3 +1,12 @@
 # static-site-bundler
 
-Create static site using: ts, sass, tailwind
+Create static sites using: typescript, sass and tailwindcss
+
+## Get started
+
+To view initial "Hello World" example, run the following command
+
+```bash
+  yarn serve
+```
+
